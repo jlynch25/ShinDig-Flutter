@@ -1,6 +1,6 @@
-# first
+# ShinDig
 
-A new Flutter project.
+A Flutter project, With Restful APIs.
 
 ## Getting Started
 
